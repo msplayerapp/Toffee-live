@@ -1,0 +1,7 @@
+# API from byte-capsule
+# This m3u presented by ms_player
+# API from byte-capsule
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1731010720:KeyName=prod_linear:Signature=Kp8OanjF0u3_i8O1grYlQU3L4R3CUcfRsEDRSdENqGbfkNr9Q3zQUIv5w1lE74nmW8tDlurpJhjhmycyk8_GBA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
